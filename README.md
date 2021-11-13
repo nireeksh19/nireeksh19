@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nireeksh.
-- 👀 I’m interested in Web development.
+- 👀 I’m interested in Web development and Mobile app development.
 - 🌱 I’m currently learning B.E in Information Science and Engineering.
 
 <!---
